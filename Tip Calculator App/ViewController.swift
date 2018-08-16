@@ -41,6 +41,8 @@ class ViewController: UIViewController {
         if let lastBill = MainSetting.getLastBill() {
             billField.text = lastBill
         }
+        billField.becomeFirstResponder()
+     
         
     
     }
