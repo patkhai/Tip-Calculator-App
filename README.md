@@ -28,9 +28,11 @@ The following **additional** features are implemented:
   - Implemented a setting page
 
 ## Video Walkthrough 
-<img src="https://i.imgur.com/OPbZNV0.gif" title="source: imgur.com" />
+<img src="https://i.imgur.com/OPbZNV0.gif" title="Interface" />
+
 ## Setting page 
-<a href="https://imgur.com/oFg233z"><img src="https://i.imgur.com/oFg233z.gif" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/oFg233z.gif" title="Setting" /></a>
+
 ## Notes
 
 Describe any challenges encountered while building the app.
