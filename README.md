@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 <img src="https://i.imgur.com/OPbZNV0.gif" title="Interface" />
 
 ## Setting page 
-<<img src="https://i.imgur.com/ne7Jusu.gif" title="source: imgur.com" />
+<img src="https://i.imgur.com/ne7Jusu.gif" title="source: imgur.com" />
 
 ## Notes
 
