@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-  - 
+  - After the tutorial for the basic requirement, I had some trouble implementing my own ideas onto the application itself. I want to do a lot of things but with the limited knowledge about swift and designing, it took me a lot of research and some help from stackoverflow as well. However, I was able to use those resources infront of me and implement them into my application. I spent most of my time debugging and it was one of the time consuming activity but when solved it gave me this feeling of accomplishment, a little joy. I like and appreciate what I learnt. 
 
 ## License
 
