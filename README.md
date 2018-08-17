@@ -28,7 +28,7 @@ The following **additional** features are implemented:
   - Implemented a setting page
 
 ## Video Walkthrough 
-<blockquote class="imgur-embed-pub" lang="en" data-id="cbZtGq7"><a href="//imgur.com/cbZtGq7">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/cbZtGq7" width=300 height=700 alt"" />
 <img src="https://i.imgur.com/KZzJEh2.gif" title ='Required steps' width=462 height=832 alt="" />
 
 ## Notes
