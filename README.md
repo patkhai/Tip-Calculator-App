@@ -28,9 +28,8 @@ The following **additional** features are implemented:
   - Implemented a setting page
 
 ## Video Walkthrough 
+<a href="https://imgur.com/34S90e5"><img src="https://i.imgur.com/34S90e5.gif" title="source: imgur.com" /></a>
 <a href="https://imgur.com/XPSkDXt"><img src="https://i.imgur.com/XPSkDXt.gif" title="source: imgur.com" /></a>
-<img src="https://i.imgur.com/KZzJEh2.gif" title ='Required steps' width=462 height=832 alt="" />
-
 ## Notes
 
 Describe any challenges encountered while building the app.
