@@ -28,7 +28,7 @@ The following **additional** features are implemented:
   - Implemented a setting page
 
 ## Video Walkthrough 
-<img src="https://i.imgur.com/cbZtGq7" width=300 height=700 alt"" />
+<a href="https://imgur.com/XPSkDXt"><img src="https://i.imgur.com/XPSkDXt.gif" title="source: imgur.com" /></a>
 <img src="https://i.imgur.com/KZzJEh2.gif" title ='Required steps' width=462 height=832 alt="" />
 
 ## Notes
