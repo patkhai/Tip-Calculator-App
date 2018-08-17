@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src="https://i.imgur.com/KZzJEh2.gif" width=462 height=832 alt="" /><br/>free gifs at <a href="http://gifgifs.com/">gifgifs</a>
+<img src="https://i.imgur.com/KZzJEh2.gif" title ='Required steps' width=462 height=832 alt="" />
 
 ## Notes
 
