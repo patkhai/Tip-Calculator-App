@@ -29,7 +29,6 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 <a href="https://imgur.com/OPbZNV0"><img src="https://i.imgur.com/OPbZNV0.gif" title="source: imgur.com" /></a>
-
 <a href="https://imgur.com/oFg233z"><img src="https://i.imgur.com/oFg233z.gif" title="source: imgur.com" /></a>
 ## Notes
 
