@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 <img src="https://i.imgur.com/OPbZNV0.gif" title="source: imgur.com" />
-<img src="https://i.imgur.com/oFg233z.gif" title="source: imgur.com" />
+## Setting page 
+<a href="https://imgur.com/oFg233z"><img src="https://i.imgur.com/oFg233z.gif" title="source: imgur.com" /></a>
 ## Notes
 
 Describe any challenges encountered while building the app.
