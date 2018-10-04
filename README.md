@@ -4,7 +4,7 @@ TipPlz is a tip calculator application for iOS.
 
 Submitted by: Kam Khai (Patrick) 
 
-Time spent: 25 hours spent in total
+Time spent: 8 hours spent in total
 
 ## User Stories
 
